@@ -8,7 +8,7 @@ This repository contains two labs that explore Retrieval-Augmented Generation (R
 Implements a retriever-based semantic search pipeline using sentence transformers.
 - Retriever Implementation
 - Sentence Transformer Pipeline
-- 
+  
 ### 2. Lab2: Small RAG for Question Answering
 Build a simplified RAG system to answer domain-specific questions (e.g., Warhammer 40K rules) using a lightweight, quantized LLama 3.2 1B model.
 - Import and template the Llama 3.2 model for interactive Q&A.

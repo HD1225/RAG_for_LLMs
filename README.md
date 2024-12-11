@@ -1,7 +1,7 @@
 # RAG for LLMs: Semantic Search and Question Answering
 
 ## Overview
-This repository contains two labs that explore Retrieval-Augmented Generation (RAG) for language models. They are part of the RAG (Retrieval-Augmented Generation) course at Université Paris Cité for the 2024-2025 academic year. It focuses on understanding and implementing RAG pipelines, with practical applications in semantic search and domain-specific question answering. The two labs involve building retrievers, experimenting with vector databases, and evaluating end-to-end RAG systems.
+This repository contains two labs that explore Retrieval-Augmented Generation (RAG) for language models. They are part of the RAG course at Université Paris Cité for the 2024-2025 academic year. It focuses on understanding and implementing RAG pipelines, with practical applications in semantic search and domain-specific question answering. The two labs involve building retrievers, experimenting with vector databases, and evaluating end-to-end RAG systems.
 
 ## Contents
 ### 1. Lab1: Semantic Search
